@@ -12,13 +12,13 @@ Requirements: gcc compiler or CLANG compiler.
      git clone https://github.com/ashirbadsahu/phonedir-pps.git
      cd phonedir-pps
   ```
- 1. Compile the program
+ 2. Compile the program
   ```
      gcc main.c
      or
      clang main.c
   ```
- 1. Run the program
+ 3. Run the program
   ```
      ./a.out
      or
