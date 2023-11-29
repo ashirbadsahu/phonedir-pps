@@ -9,8 +9,8 @@
 Requirements: gcc compiler or CLANG compiler.
  1. Clone this repository
   ```
-     git clone 
-     cd 
+     git clone https://github.com/ashirbadsahu/phonedir-pps.git
+     cd phonedir-pps
   ```
  1. Compile the program
   ```
